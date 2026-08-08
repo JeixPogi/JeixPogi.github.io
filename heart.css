@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    overflow:hidden;
+    background:linear-gradient(to bottom,#050816,#14052c);
+}
+
+canvas{
+    display:block;
+}
